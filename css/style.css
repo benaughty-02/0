@@ -520,7 +520,7 @@ label.error {
 header {
   background-color: white;
   height: 506px;
-  background: url('../images/header_bgr_xs.jpg') no-repeat 50% 0;
+  background: url('../images/header_bgr_md.jpg') no-repeat 50% 0;
   border-top: 3px solid #075c76;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
